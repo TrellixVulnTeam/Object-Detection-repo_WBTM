@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bad</folder>
+	<filename>bad.7a85b274-c782-11ec-b896-12a18b2c3c98.jpg</filename>
+	<path>/Users/benediktmacnairlummawie/Documents/ObjectDetection/Object-Detection-repo/Tensorflow/workspace/images/collectedImages/bad/bad.7a85b274-c782-11ec-b896-12a18b2c3c98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>245</ymin>
+			<xmax>602</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

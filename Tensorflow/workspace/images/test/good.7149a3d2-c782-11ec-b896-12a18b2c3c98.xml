@@ -1,0 +1,26 @@
+<annotation>
+	<folder>good</folder>
+	<filename>good.7149a3d2-c782-11ec-b896-12a18b2c3c98.jpg</filename>
+	<path>/Users/benediktmacnairlummawie/Documents/ObjectDetection/Object-Detection-repo/Tensorflow/workspace/images/collectedImages/good/good.7149a3d2-c782-11ec-b896-12a18b2c3c98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>198</ymin>
+			<xmax>856</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>
